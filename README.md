@@ -1537,6 +1537,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Triangle Modern Web](http://www.meetup.com/trianglemodernweb), Raleigh, NC
 - Group Focus - JavaScript, Front End Development
 
+#### Catherine Lopez
+	
+- [@lopezcatherine](http://twitter.com/lopezcatherine)
+- [EmpireJS](http://empirejs.org), New York, NY
+- Group Focus - JavaScript, Front End Development
+
 #### Stefana Muller
 
 - [@liwomenintech](https://twitter.com/liwomenintech)
@@ -1620,6 +1626,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@cotufa82](https://twitter.com/cotufa82)
 - [Vue Vixens](https://www.vuevixens.org)
 - Location - Worldwide
+
+### Colombia
+
+#### Catherine Lopez
+
+- [@lopezcatherine](https://twitter.com/lopezcatherine)
+- [ScaleConf Colombia](https://scaleconfco.com), Medellin, Colombia
+- [JSConf Colombia](http://jsconf.co), Medellin, Colombia
+- Group Focus - Scalability, Distributed Systems, Security, Machine Learning, JavaScript, Front End Development
 
 ### Europe
 
